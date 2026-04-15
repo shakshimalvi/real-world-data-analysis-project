@@ -30,7 +30,6 @@ The dataset used in this project includes:
 - Numerical and categorical features  
 - Real-world structured data for analysis  
 
-(Note: Dataset source is not disclosed as per project guidelines)
 
 ---
 
